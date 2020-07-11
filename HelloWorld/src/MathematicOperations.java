@@ -23,7 +23,7 @@ public class MathematicOperations {
 
         // Voulumen Esfera
         // (4/3)*pi*r3
-        System.out.println((4/3)*Math.PI*Math.pow(y,3));
+        System.out.println((4.0/3.0)*Math.PI*Math.pow(y,3));
 
 
     }
