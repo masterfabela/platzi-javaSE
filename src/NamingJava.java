@@ -1,3 +1,4 @@
+ // Upper Camel case
 public class NamingJava {
 
     public static void main(String[] args) {
@@ -12,8 +13,12 @@ public class NamingJava {
         String currency$ = "MXN";
         String background_color = "blue";
 
-        int POSITION = -5;
-        int MAX_WIDTH = 9999;
-        int MIN_WIDTH = 1;
+        final int POSITION = -5;
+        final int MAX_WIDTH = 9999;
+        final int MIN_WIDTH = 1;
+
+        //Lower Calmel Case
+        String fullName = "Jose Ramon Vieites";
+        int sizeInCentimeters = 26;
     }
 }
