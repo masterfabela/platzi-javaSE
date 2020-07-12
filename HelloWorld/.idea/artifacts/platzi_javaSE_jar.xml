@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="platzi-javaSE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/platzi_javaSE_jar</output-path>
+    <root id="archive" name="platzi-javaSE.jar">
+      <element id="module-output" name="platzi-javaSE" />
+    </root>
+  </artifact>
+</component>
